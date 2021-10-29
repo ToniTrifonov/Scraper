@@ -25,7 +25,6 @@ C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scr
 C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\bin\Debug\net5.0\Scraper.dll
 C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\bin\Debug\net5.0\ref\Scraper.dll
 C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\bin\Debug\net5.0\Scraper.pdb
-C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\bin\Debug\net5.0\CsvHelper.dll
 C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\bin\Debug\net5.0\HtmlAgilityPack.dll
 C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\123\OneDrive\Работен плот\Scraper Exercise - FRT\Scraper\Scraper\Scraper\obj\Debug\net5.0\Scraper.csprojAssemblyReference.cache
